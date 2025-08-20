@@ -59,7 +59,7 @@ This creates an ecosystem where researchers can efficiently *connect, collaborat
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Screenshots
 ### Homepage – Profile, Collaborator Search, Project Creation & AI Chat
 ![WhatsApp Image 2025-08-20 at 22 14 46_9286db4e](https://github.com/user-attachments/assets/3bf1f2e5-1597-43a9-94c3-578c02dd2f3d)  
 ![WhatsApp Image 2025-08-20 at 22 14 00_97348488](https://github.com/user-attachments/assets/70cff22a-bda6-44cc-b066-991310fe33b0)

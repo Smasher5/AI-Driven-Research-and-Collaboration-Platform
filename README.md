@@ -15,7 +15,7 @@ This platform addresses these issues by connecting researchers and providing a s
 ---
 
 ## 📊 Current Progress Status
-- ✅ *Implemented*:  
+- ✅ *Implemented*: 
   - Profile creation (students/faculty with skills & research interests).  
   - Collaborator matching system.  
   - Project creation and listing.  
